@@ -13,3 +13,5 @@ Universal Typewriter Bot
 
 ## Is it safe?
 - Yes this model is completely safe and opensource.
+
+<small>Feel free to skid, ts is not supposed to be serious</small>
